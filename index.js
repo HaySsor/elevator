@@ -10,7 +10,7 @@ let currentScroll = 0;
 
 elevator.addEventListener('scroll', () => {
   let positionFromTop = elevator.scrollTop;
-  let floorNumber = Math.floor(10.8 - positionFromTop / 150);
+  let floorNumber = Math.floor(10.5 - positionFromTop / 150);
 
   if (currentScroll > elevator.scrollTop) {
     direction.textContent = `Kierunek: ${directions.top}  ${floorNumber}`;
