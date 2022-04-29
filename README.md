@@ -17,3 +17,5 @@ Spraw, aby pole nad windą, informujące o kierunku poruszania się, było aktua
 ### Punkty bonusowe
 
 1. Spraw, aby na polu z informacjami pokazywało się również aktualne piętro
+2. Live https://stackblitz.com/edit/winda-ftgrg7?fbclid=IwAR3hDmOQfoQpw5voY34FlHY-ViZRg7zOEEk2d_0VtUFCRA-Txe82Z7QhevI&file=index.js
+3. 
